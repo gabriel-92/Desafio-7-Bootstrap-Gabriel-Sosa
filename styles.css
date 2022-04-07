@@ -31,7 +31,10 @@
   max-width: 400px;
 
 }
+.bi-cart{
+  color:#faf9f4 !important;
 
+}
 
 /* fin de estilos index */
 
@@ -42,7 +45,10 @@
 }
 
 
-
+.precio{
+  font-weight: 500;
+  font-size: 22px;
+}
 
 
 
